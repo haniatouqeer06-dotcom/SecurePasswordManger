@@ -111,3 +111,9 @@ This project uses a **Caesar Cipher** for educational demonstration of encryptio
 
 This project demonstrates the practical use of **C++ OOP, SFML GUI development, file handling, and basic cybersecurity concepts** by building a functional desktop password management application.
 
+## Demo Video
+
+A short demonstration of the Secure Password Manager, showcasing its main features, user interface, and complete application workflow.
+
+https://github.com/user-attachments/assets/7cc54c78-8a08-4a6b-9595-ede89eed357d
+
